@@ -1,0 +1,9 @@
+jupyterlab
+librosa
+matplotlib
+scikit-image
+boto3
+torchaudio
+pandas
+pydub
+jams

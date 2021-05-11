@@ -1,0 +1,11 @@
+torch
+jupyterlab
+librosa
+matplotlib
+scikit-image
+boto3
+torchvision
+torchaudio
+pandas
+pydub
+jams
